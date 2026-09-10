@@ -2,6 +2,12 @@
 title: "Assignment 3"
 ---
 
-This is a Quarto website.
+This is a website designed for assignment 3
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Link to Flora Lyu's github account:https://github.com/zl2238
+
+Link to Joy Mello's github account:https://github.com/jam958
+
+![](https://i.pinimg.com/474x/d9/ec/6e/d9ec6e8ac3260e2b99d756d8894cd286.jpg)
+
+Figure 1. Letter A

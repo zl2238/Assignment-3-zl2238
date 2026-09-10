@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "Flora"
 ---
 
-About this site
+- Second-year Master's student in Nutritional Sciences
+- Research project title: Dietary Copper and Gut Microbiome Composition in Adults Habitually Consuming Plant- or Animal-Based Diets
+- Bachelor's degree from McGill University also in Nutritional Sciences
