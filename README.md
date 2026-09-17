@@ -1,3 +1,3 @@
 # Assignment-3-zl2238
 
-Assignment 3: https://github.com/zl2238/Assignment-3-zl2238.git
+Assignment 3: https://zl2238.github.io/Assignment-3-zl2238/
